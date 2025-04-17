@@ -1,0 +1,21 @@
+#root {
+	min-width: 100vw;
+	margin: 0 auto;
+}
+
+
+
+.app-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-family: 'Bigelow Rules' ;
+  font-size: 10em;
+  color: aliceblue;
+  border-top: 50px solid orange;
+  border-bottom: 50px solid orange;
+}
